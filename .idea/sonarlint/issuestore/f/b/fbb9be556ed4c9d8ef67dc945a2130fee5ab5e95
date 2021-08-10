@@ -1,0 +1,12 @@
+
+Q
+java:S1481"/Remove this unused "mainwindow" local variable.(Ò®…•şÿÿÿÿ8¶”¥§/
+\
+java:S1854":Remove this useless assignment to local variable "window".(ŠÃ÷Äıÿÿÿÿ8™õ¥§/
+`
+java:S1854">Remove this useless assignment to local variable "mainwindow".(Ò®…•şÿÿÿÿ8¶”¥§/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯êù”
+M
+java:S1481"+Remove this unused "window" local variable.(ŠÃ÷Äıÿÿÿÿ8™õ¥§/
+]	java:S125"<This block of commented-out lines of code should be removed.(ı›ñ‡øÿÿÿÿ8¶”¥§/
+]	java:S125"<This block of commented-out lines of code should be removed.(èÚ©øÿÿÿÿ8£Ò”¥§/
